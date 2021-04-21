@@ -1,2 +1,2 @@
-# hellow-worls
+# hellow-word
 toupdate repositry
